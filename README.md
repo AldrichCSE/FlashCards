@@ -9,7 +9,7 @@ FlashCard app is a one quesion/answer flashcard. The app provides a question ans
 ### App Walk-though
 The app displays a flashcard with the question "What is the 44th President" OnClick the card will "flip" and return the answer. Below there is a quiz section. If the selected answer is wrong it returns the answer in green and the wrong answer in red.
 
-<img src="https://recordit.co/1UApA6EOsi" width=200><br>
+<img src= https://recordit.co/1UApA6EOsi width=200><br>
 
 - [x] Add a view for the front side of the flashcard to display the question
 - [x] Add a view for the back side of the flashcard to display the answer
