@@ -8,7 +8,7 @@ Flashcard App update User can now move to a page where they have to option to wr
 ### App Walk-though
 On the bottom right hand corner there is a 'Add Card Button' User can click on this to open a page where they can use the edit textbox to edit the question and answer. User can save thier input using the 'Save button on the bottom left corner' Existing Questions will be overwritten. 
 
-<img src= https://cdn.discordapp.com/attachments/932550554297724961/954433010583867482/GIF-220318_103411.gif width=200><br>
+<img src= http://g.recordit.co/YXFlwvy8Q8.gif width=200><br>
 
 
 
