@@ -20,7 +20,7 @@ On the bottom right hand corner there is a 'Add Card Button' User can click on t
 - [x] Push your progress to GitHub!
 
 ## Optional
-- [x] User can edit a card
+- [ ] User can edit a card
 - [ ] An error message is shown if the user doesn't enter both a Question and an Answer
 - [ ] A notification is shown if the card was created successfully
 - [ ] User can also enter multiple choice answers when creating a card
