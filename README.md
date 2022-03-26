@@ -6,7 +6,7 @@ Flashcard App now allows the user to create more than 1 card, which they browse 
 ### App Walk-though
 User can tap 'add card' button to create the card. The user must add to the question and answer but the mulitple choice is currently optional. After tapping the save button the user can now navigate thorugh multiple flashcards that save after the app closes. Further desgin implementaions are not yet completed and some features require additonal fixes. 
 
-<img src= http://g.recordit.co/FqwH3Dies3.gif width=200><br>
+<img src= http://g.recordit.co/x16FL2MwRv.gif width=200><br>
 
 
 ## Required
