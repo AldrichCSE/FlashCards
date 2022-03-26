@@ -1,4 +1,23 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+## Lab 3
+
+### App Description
+Flashcard App now allows the user to create more than 1 card, which they browse even after app closes. 
+
+### App Walk-though
+User can tap 'add card' button to create the card. The user must add to the question and answer but the mulitple choice is currently optional. After tapping the save button the user can now navigate thorugh multiple flashcards that save after the app closes. Further desgin implementaions are not yet completed and some features require additonal fixes. 
+
+<img src= http://g.recordit.co/FqwH3Dies3.gif width=200><br>
+
+
+## Required
+- [x] User can create a card and still see their created card when the app is relaunched.
+- [x] User can create muliple cards and browse through all created cards
+
+## Optional
+- [ ] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
 
 ## Lab 2
 
